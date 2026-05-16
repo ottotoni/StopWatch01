@@ -1,0 +1,7 @@
+.container {
+    padding-left: 35%;
+    padding-top: 4rem;
+}
+button:hover {
+    cursor: pointer;
+}
